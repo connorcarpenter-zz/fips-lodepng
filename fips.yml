@@ -1,0 +1,10 @@
+#
+# oryol-websocket-client
+#
+---
+exports:
+    header-dirs:
+        - lodepng
+    modules:
+        lodepng:  lodepng
+
