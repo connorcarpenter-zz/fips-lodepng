@@ -1,10 +1,10 @@
 #
-# oryol-websocket-client
+# fips-lodepng
 #
 ---
 exports:
     header-dirs:
-        - lodepng
+        - src
     modules:
-        lodepng:  lodepng
+        lodepng:  src/lodepng
 
